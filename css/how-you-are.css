@@ -1,0 +1,12 @@
+.how-input::-webkit-input-placeholder{
+    color: #ACACAC;
+    font-size: 1.4rem;
+};
+
+.input-24::-webkit-input-placeholder{
+    color:  #464646;
+    font-weight: 500;
+    font-size: 1.6rem;
+}
+
+ 
